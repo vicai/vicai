@@ -1,0 +1,13 @@
+{
+	"name": "vicai",
+	"owner": {
+		"name": "vicai"
+	},
+	"plugins": [
+		{
+			"name": "vicaimode",
+			"source": "./vicaimode",
+			"description": "if you want to go fast, go deep first. vicaimode helps you write less, but higher quality code. rigorous agent workflows you can parallelize with confidence."
+		}
+	]
+}

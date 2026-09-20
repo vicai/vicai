@@ -1,0 +1,21 @@
+{
+	"name": "vicaimode",
+	"version": "0.1.0",
+	"description": "if you want to go fast, go deep first. vicaimode helps you write less, but higher quality code. rigorous agent workflows you can parallelize with confidence.",
+	"author": {
+		"name": "vicai"
+	},
+	"homepage": "https://github.com/vicai/vicai/tree/main/vicaimode",
+	"repository": "https://github.com/vicai/vicai",
+	"license": "MIT",
+	"keywords": [
+		"vicaimode",
+		"workflow",
+		"principles",
+		"agent-style",
+		"subagents",
+		"unslop"
+	],
+	"skills": "./skills/",
+	"agents": "./agents/"
+}
